@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ## Get API Key
-Access cloud.google.com and get your Key for API.
+Access https://cloud.google.com and get your Key for API.
 
 ## Configure
 
